@@ -1,0 +1,14 @@
+
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(103, 145, 243);
+    margin: auto;
+    margin-top: 200px;
+}
+
+.square p {
+    text-align: center;
+    line-height: 200px;
+}
