@@ -3,9 +3,11 @@
 .square {
     width: 200px;
     height: 200px;
-    background-color: rgb(103, 145, 243);
+    background-color: rgb(101, 136, 231);
     margin: auto;
     margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
 }
 
 .square p {
